@@ -1,9 +1,62 @@
 ## Hi there 👋
-I’m a first-year Bachelor of Commerce student at the University of Calgary, majoring in Business Analytics. My interest in understanding how numbers tell stories began early on, when solving math problems felt less like a task and more like uncovering patterns behind real-world decisions. Winning several math awards gave me confidence in my analytical ability—but more importantly, it taught me how logic and data can make sense of complexity.
-Over time, I realized that data isn’t just about numbers—it’s about people, choices, and impact. That belief pushed me to explore how analytics can improve business decisions, uncover opportunities, and create sustainable solutions.
-Outside academics, I’ve grown through volunteering and work experiences that challenged my communication and leadership skills—from organizing charity events and teaching students, to working in customer service where I learned to stay calm and clear under pressure.
-As a freshman, I see this as my time to explore boldly—to learn, fail, adapt, and keep improving. My goal is to use analytics to generate data-driven insights and use innovative thinking to help organizations make better, more meaningful decisions.
-Interests: Data Analytics | Business Strategy | Process Improvement | Predictive Insights | Sustainable Innovation
+LE HUA PHUOC KHANG (KHANGLE0103)
+
+Business Analytics @ University of Calgary
+
+About Me
+
+Curious about data, business, and the stories behind numbers.
+Award-winning math student turned business analyst, with experience in team leadership, research, and communication.
+Aiming to find patterns, improve processes, and help organizations make better decisions.
+
+Education
+
+BComm, Business Analytics
+University of Calgary (2025–2029)
+
+Tran Dai Nghia High School for the Gifted
+GPA: 9.7/10 | IELTS: 7.0
+
+Awards
+
+1st Place, Singing Contest (2024)
+2nd Place, Teacher Day Singing Contest (2023)
+City-Level Math Award: 2022, 2025
+
+Experience
+
+Sportify TDN
+Basketball Player & Data Analyst (2023–2025)
+
+Youth Entrepreneur
+Co-Operations Delegate (2023–2024)
+
+“Summertime Happiness” Charity Project
+Organizer (2024)
+
+CVO Charity
+Planner & Volunteer (2023–2024)
+
+American Study Joint Stock Company
+Research Co-Author & Marketing Intern (2024)
+
+Math Tutor, Stars for Scholarly Youth @ UCalgary
+(2025–Present)
+
+The Music Club & Schulich Soundstage
+Member & Performer
+
+Interests
+
+Data Analytics
+Business Strategy
+Process Improvement
+Predictive Insights
+Sustainable Innovation
+
+Thanks for visiting!
+
+
 <!--
 **KHANGLE0103/KHANGLE0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
