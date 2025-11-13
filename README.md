@@ -1,5 +1,9 @@
-## Hi there 😂 👋
-
+## Hi there 👋
+I’m a first-year Bachelor of Commerce student at the University of Calgary, majoring in Business Analytics. My interest in understanding how numbers tell stories began early on, when solving math problems felt less like a task and more like uncovering patterns behind real-world decisions. Winning several math awards gave me confidence in my analytical ability—but more importantly, it taught me how logic and data can make sense of complexity.
+Over time, I realized that data isn’t just about numbers—it’s about people, choices, and impact. That belief pushed me to explore how analytics can improve business decisions, uncover opportunities, and create sustainable solutions.
+Outside academics, I’ve grown through volunteering and work experiences that challenged my communication and leadership skills—from organizing charity events and teaching students, to working in customer service where I learned to stay calm and clear under pressure.
+As a freshman, I see this as my time to explore boldly—to learn, fail, adapt, and keep improving. My goal is to use analytics to generate data-driven insights and use innovative thinking to help organizations make better, more meaningful decisions.
+Interests: Data Analytics | Business Strategy | Process Improvement | Predictive Insights | Sustainable Innovation
 <!--
 **KHANGLE0103/KHANGLE0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
