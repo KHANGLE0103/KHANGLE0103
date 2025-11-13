@@ -1,61 +1,31 @@
 ## Hi there 👋
-LE HUA PHUOC KHANG (KHANGLE0103)
+Hi, I'm **LE HUA PHUOC KHANG**
 
-Business Analytics @ University of Calgary
+I'm studying **Business Analytics** at the **University of Calgary**. I enjoy exploring how **data** tells stories and helps solve real-world problems. I started out with **math competitions** and found that **analytics** is about understanding **people** and making smart decisions.
 
-About Me
+**Education:**
+- **Bachelor of Commerce**, Business Analytics, University of Calgary (2025–2029)
+- **Tran Dai Nghia High School for the Gifted**, GPA: 9.7/10
 
-Curious about data, business, and the stories behind numbers.
-Award-winning math student turned business analyst, with experience in team leadership, research, and communication.
-Aiming to find patterns, improve processes, and help organizations make better decisions.
+**Awards:**
+- **1st Place**, Singing Contest, 2024
+- **2nd Place**, Teacher Day Singing Contest, 2023
+- **City-Level Math Awards**, 2022 and 2025
 
-Education
+**Experience:**
+- **Sportify TDN:** Basketball player and team analyst
+- **Youth Entrepreneur:** Workshop organizer and program builder
+- **Summertime Happiness Charity Project:** Organizer
+- **CVO Charity:** Project planner
+- **American Study Joint Stock Company:** Research co-author and marketing intern
+- **Stars for Scholarly Youth at UCalgary:** Math tutor
+- **Music Club & Schulich Soundstage:** Performer and member
 
-BComm, Business Analytics
-University of Calgary (2025–2029)
+**Interests:**
+**Data analytics**, **business strategy**, **process improvement**, **predictive insights**, **sustainable innovation**
 
-Tran Dai Nghia High School for the Gifted
-GPA: 9.7/10 | IELTS: 7.0
 
-Awards
-
-1st Place, Singing Contest (2024)
-2nd Place, Teacher Day Singing Contest (2023)
-City-Level Math Award: 2022, 2025
-
-Experience
-
-Sportify TDN
-Basketball Player & Data Analyst (2023–2025)
-
-Youth Entrepreneur
-Co-Operations Delegate (2023–2024)
-
-“Summertime Happiness” Charity Project
-Organizer (2024)
-
-CVO Charity
-Planner & Volunteer (2023–2024)
-
-American Study Joint Stock Company
-Research Co-Author & Marketing Intern (2024)
-
-Math Tutor, Stars for Scholarly Youth @ UCalgary
-(2025–Present)
-
-The Music Club & Schulich Soundstage
-Member & Performer
-
-Interests
-
-Data Analytics
-Business Strategy
-Process Improvement
-Predictive Insights
-Sustainable Innovation
-
-Thanks for visiting!
-
+Thanks for visiting my page!
 
 <!--
 **KHANGLE0103/KHANGLE0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
